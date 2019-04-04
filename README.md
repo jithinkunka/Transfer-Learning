@@ -10,3 +10,4 @@ model has learned through its extensive training, without having to do that trai
 Here we are implemetning the transfer learning using 102 flowers data set. Folders are created for every label and their respective 
 flowers are moved into them. Keras is used for transfer learning here and model used is ResNet50.
 
+The dataset used and labels can be downloaded from http://www.robots.ox.ac.uk/~vgg/data/flowers/102/
